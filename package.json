@@ -1,5 +1,5 @@
 {
-  "name": "component-logger",
+  "name": "@adeelasif/component-logger",
   "version": "1.0.0",
   "description": "A component based logger for front end (React/Vuejs components).",
   "main": "index.js",
@@ -11,5 +11,9 @@
     "url": "git@me.github.com:AdeelAsif/component-logger.git"
   },
   "author": "Adeel Asif",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "React",
+    "Logging"
+  ]
 }

@@ -58,15 +58,4 @@ function Logger(prefix, color) {
 	this.debug = debugLocal(prefix, color);
 }
 
-
-
-// var logger = new Logger("Test Context");
-
-// logger.log("Log Test");
-// logger.warn("Warn Test");
-// logger.info("info Test");
-// logger.debug("debug Test");
-// logger.error("error Test");
-
-
-export default Logger;
+module.exports = Logger;
